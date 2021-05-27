@@ -1,2 +1,3 @@
-# unified_lensing_and_kinematics
-Interactive notebook version of Shajib 2019 (arXiv:1906.08263).
+# Unified lensing and kinematic analysis
+
+Interactive `jupyter` notebook versions of [Shajib 2019](https://arxiv.org/abs/1906.08263).
